@@ -12,9 +12,6 @@
     It is used to track portfolio performance in comparision to set goals, so I can easier track it.
     <br />
     <br />
-    <a href="https://github.com/maximiliansoerenpollak/portfolio-api/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/maximiliansoerenpollak/portfolio-api/issues">Request Feature</a>
   </p>
 </div>
 
